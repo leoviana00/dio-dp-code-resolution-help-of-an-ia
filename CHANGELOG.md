@@ -2,6 +2,14 @@
 
 ## 🚧 Current - Work in progress
 ### 🔀 Merges
+
+### 🚀 Commits
+
+
+
+## 🔖 1.1.0 - (2024-10-26)
+### 🔀 Merges
+*  Merge pull request #5 from leoviana00/feature-desafio [View](https://github.com/leoviana00/dp-dio-code-resolution-help-of-an-ia/commits/5ebbb040881c7d5607fc29bd3f0542f9a353a0c9)
 *  Merge pull request #4 from leoviana00/feature-desafio [View](https://github.com/leoviana00/dp-dio-code-resolution-help-of-an-ia/commits/8cf50597234b591b93da56f6c684cebec3770eff)
 ### 🚀 Commits
 *  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/dp-dio-code-resolution-help-of-an-ia/commits/a53d385369fa54277577d31eff760adbb927db7a)
@@ -11,6 +19,8 @@
 *  feat(py): repee texto [View](https://github.com/leoviana00/dp-dio-code-resolution-help-of-an-ia/commits/2db000e1eebc4e97bb0cefa22219e7d6e39a2c2f)
 *  feat(js): verificar palindromos [View](https://github.com/leoviana00/dp-dio-code-resolution-help-of-an-ia/commits/cff5d3f74f27aaee9f50be795da40bfec4c5452d)
 *  feat(js): verifica num pares e impares [View](https://github.com/leoviana00/dp-dio-code-resolution-help-of-an-ia/commits/60dfbb3ad44a158f3112881c23e47325ca00e819)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/dp-dio-code-resolution-help-of-an-ia/commits/3a50f1300098738bfb9534af85610d5796ee54d6)
+*  docs(changelog): versionamendo das mudancas [View](https://github.com/leoviana00/dp-dio-code-resolution-help-of-an-ia/commits/2e940a7246eae01d10a877748aec83d8a81aadf8)
 
 
 
@@ -37,8 +47,9 @@
 *  feat(changelog): atomatização do changelog [View](https://github.com/leoviana00/dp-dio-code-resolution-help-of-an-ia/commits/1e88b582892a7edb96c2a818cb1296a01c74a6c8)
 ## 📝 Metadata
 ```
-This version -------- 1.0.0
+This version -------- 1.1.0
+1.0.0
 0.0.0
-Previous version ---- 0.0.0
-Total commits ------- 7
+Previous version ---- 1.0.0
+Total commits ------- 18
 ```
