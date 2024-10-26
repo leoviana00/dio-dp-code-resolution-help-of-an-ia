@@ -2,8 +2,15 @@
 
 ## 🚧 Current - Work in progress
 ### 🔀 Merges
-
+*  Merge pull request #4 from leoviana00/feature-desafio [View](https://github.com/leoviana00/dp-dio-code-resolution-help-of-an-ia/commits/8cf50597234b591b93da56f6c684cebec3770eff)
 ### 🚀 Commits
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/dp-dio-code-resolution-help-of-an-ia/commits/a53d385369fa54277577d31eff760adbb927db7a)
+*  feat(alg): operacoes matematicas simples [View](https://github.com/leoviana00/dp-dio-code-resolution-help-of-an-ia/commits/e1cd166378b139a6a60b65be5f60ad4e6f9fb926)
+*  feat(js): calcular media [View](https://github.com/leoviana00/dp-dio-code-resolution-help-of-an-ia/commits/e550c6b8930826c7ed2aeb69d51fe895ddb93eb3)
+*  feat(py): concatenar dados [View](https://github.com/leoviana00/dp-dio-code-resolution-help-of-an-ia/commits/eed8a12ef2a5ac4415dfdaedacd9f324840abb8e)
+*  feat(py): repee texto [View](https://github.com/leoviana00/dp-dio-code-resolution-help-of-an-ia/commits/2db000e1eebc4e97bb0cefa22219e7d6e39a2c2f)
+*  feat(js): verificar palindromos [View](https://github.com/leoviana00/dp-dio-code-resolution-help-of-an-ia/commits/cff5d3f74f27aaee9f50be795da40bfec4c5452d)
+*  feat(js): verifica num pares e impares [View](https://github.com/leoviana00/dp-dio-code-resolution-help-of-an-ia/commits/60dfbb3ad44a158f3112881c23e47325ca00e819)
 
 
 
