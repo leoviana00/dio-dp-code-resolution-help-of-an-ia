@@ -2,8 +2,11 @@
 
 ## 🚧 Current - Work in progress
 ### 🔀 Merges
-
+*  Merge pull request #2 from leoviana00/feature-templates [View](https://github.com/leoviana00/dp-dio-code-resolution-help-of-an-ia/commits/2d853d863207cc290ff3ce8a29d2b792cf825efa)
 ### 🚀 Commits
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/dp-dio-code-resolution-help-of-an-ia/commits/72c2236cc87900942687ee89f82adf71efc4c555)
+*  feat(templates): add pull request template [View](https://github.com/leoviana00/dp-dio-code-resolution-help-of-an-ia/commits/39c0c210292287683850ebb72d568c0967b95cc9)
+*  feat(templates): add issues templates [View](https://github.com/leoviana00/dp-dio-code-resolution-help-of-an-ia/commits/7f210497e84999201ae23e1b651e5131f3f938ac)
 
 
 
