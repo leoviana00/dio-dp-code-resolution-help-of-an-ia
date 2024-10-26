@@ -2,8 +2,11 @@
 
 ## 🚧 Current - Work in progress
 ### 🔀 Merges
-
+*  Merge pull request #6 from leoviana00/feature-docs [View](https://github.com/leoviana00/dp-dio-code-resolution-help-of-an-ia/commits/14c1e4468cbc57066e8868d6f8f12bfe6b466d8f)
 ### 🚀 Commits
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/dp-dio-code-resolution-help-of-an-ia/commits/03572c7da98a25eb22dc1972bb60d6405877df77)
+*  docs(desafio): doc do desafio [View](https://github.com/leoviana00/dp-dio-code-resolution-help-of-an-ia/commits/6bb50d891ab7d620ceadf72444b32128f8be2e2c)
+*  docs(desafio): add readme ao desafio [View](https://github.com/leoviana00/dp-dio-code-resolution-help-of-an-ia/commits/373b0a4f3605d98ee9c96719a283b86a2c132d37)
 
 
 
